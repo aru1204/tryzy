@@ -9,7 +9,7 @@
 
   <!-- Caption for second image -->
   <h2>📱 Mobile View</h2>
-  <img src="https://i.ibb.co/xqLMMRhy/tryzy-mobile.jpg" alt="Mobile View" />
+  <img src="https://i.ibb.co/BV5sR65G/tryzy-mobile.jpg" width="50%" alt="Mobile View" />
 </p>
 
 
