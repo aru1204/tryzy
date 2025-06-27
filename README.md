@@ -45,7 +45,7 @@ A private project where users can upload their own image and a product image to 
 
 🔗 [Click to Visit the Website](https://your-website-link.com)  
 
-**<span style='color: red;'>Note: This is a private project. The source code has not been uploaded to GitHub. Only the README file and the live website link are provided.**</span>
+**Note: This is a private project. The source code has not been uploaded to GitHub. Only the README file and the live website link are provided.**
 
 
 ---
